@@ -1,10 +1,13 @@
 import React, { Component } from 'react';
+import Navbar from "../Navbar/Navbar";
+import AboutMe from "../AboutMe/AboutMe";
 
 class Home extends Component {
     render() {
         return (
             <div>
-                <h1>This is my home page</h1> 
+                <Navbar />
+                <AboutMe />
             </div>
         );
     }
