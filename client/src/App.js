@@ -2,7 +2,7 @@ import React, {useEffect} from 'react';
 import axios from "axios";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Home from "./containers/Home/Home";
-import NoMatch from ".container/NoMatch/NoMatch"
+import NoMatch from "./containers/NoMatch/NoMatch";
 
 function App() {
   useEffect(() => {
