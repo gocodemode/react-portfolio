@@ -6,7 +6,7 @@ class Navbar extends Component {
     return (
       <div>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <Link to="/" className="navbar-brand">Gregory Monroe II</Link>
+        <a href="https://www.linkedin.com/in/gregthemusician/" className="navbar-brand">Gregory Monroe II</a>
           <button
             class="navbar-toggler"
             type="button"
@@ -21,8 +21,9 @@ class Navbar extends Component {
           <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav ml-auto">
                 <Link to="/" className="nav-item nav-link active">About Me</Link>
-                <Link to="/contact" className="nav-item nav-link">Contact</Link>
+                <Link to="/contact" className="nav-item nav-link active">Contact</Link>
                 <Link to="/projects" className="nav-item nav-link active">Projects</Link>
+                <Link to="/resume" className="nav-item nav-link active">Resume</Link>
             </div>
           </div>
         </nav>

@@ -1,13 +1,13 @@
-.top {
-    text-align: center;
-    font-family: 'Lobster', cursive;
-}
-
 .back {
     background-image: none;
     background-color: #333;
     padding: 15px;
     color: #fff;
     text-align: center
+}
+
+.top {
+    text-align: center;
+    font-family: 'Lobster', cursive;
 }
 
