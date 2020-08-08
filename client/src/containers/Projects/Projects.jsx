@@ -1,20 +1,20 @@
 import React, { Component } from 'react';
 import Navbar from "../Navbar/Navbar";
 
-class Project extends Component {
+ class Project extends Component {
     render() {
         return (
             <div>
                 <Navbar />
                 <br />
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-6">
-                            <div class="card">
-                                <div class="card-body">
-                                    <h5 class="card-title">ReadMeTV</h5>
+                <div className="container">
+                    <div className="row">
+                        <div className="col-sm-6">
+                            <div className="card">
+                                <div className="card-body">
+                                    <h5 className="card-title">ReadMeTV</h5>
                                     <br />
-                                    <img src="./Images/ReadMoreTV.png" class="img-size" alt="ReadMoreTV"/>
+                                    <img src="./Images/ReadMoreTV.png" className="img-size" alt="ReadMoreTV"/>
                                     <br />
                                     <a href="https://github.com/jameygronewald/readMoreTV">GitHub Repository</a>
                                     <br />
@@ -22,12 +22,12 @@ class Project extends Component {
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-6">
-                            <div class="card">
-                                <div class="card-body">
-                                    <h5 class="card-title">Creative Meet</h5>
+                        <div className="col-sm-6">
+                            <div className="card">
+                                <div className="card-body">
+                                    <h5 className="card-title">Creative Meet</h5>
                                         <br />
-                                        <img src="./Images/CreativeMeet.jpg" class="img-size" alt="Creative Meet"></img>
+                                        <img src="./Images/CreativeMeet.jpg" className="img-size" alt="Creative Meet"></img>
                                         <br />
                                         <a href="https://github.com/pakmk/gt-project2">GitHub Repository</a>
                                         <br />
@@ -36,12 +36,12 @@ class Project extends Component {
                             </div>
                         </div>
                     </div>    
-                    <div class="row">
-                        <div class="col-sm-6">
-                            <div class="card">
-                                <div class="card-body">
-                                    <h5 class="card-title">Workout Tracker</h5>
-                                        <img src="./Images/workoutTracker.jpg" class="img-size" alt="workoutTracker"></img>
+                    <div className="row">
+                        <div className="col-sm-6">
+                            <div className="card">
+                                <div className="card-body">
+                                    <h5 className="card-title">Workout Tracker</h5>
+                                        <img src="./Images/workoutTracker.jpg" className="img-size" alt="workoutTracker"></img>
                                         <br />
                                         <a href="https://github.com/GTblue/workoutTracker">GitHub Repository</a>
                                         <br />
@@ -49,12 +49,12 @@ class Project extends Component {
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-6">
-                            <div class="card">
-                                <div class="card-body">
-                                    <h5 class="card-title">Password Generator</h5>
+                        <div className="col-sm-6">
+                            <div className="card">
+                                <div className="card-body">
+                                    <h5 className="card-title">Password Generator</h5>
                                     <br />
-                                    <img src="./Images/Password.png" class="img-size" alt="Password Generator"></img>
+                                    <img src="./Images/Password.png" className="img-size" alt="Password Generator"></img>
                                     <br />
                                     <a href="https://github.com/GTblue/Password-Generator">GitHub Repository</a>
                                     <br />

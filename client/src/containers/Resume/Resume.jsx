@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "../Navbar/Navbar";
-import "./Resume.css";
 
 const Resume = () => {
   return (
@@ -8,7 +7,7 @@ const Resume = () => {
       <Navbar />
       <br />
       <div className="row">
-        <div className="col-sm-12">
+        <div className="col-sm-12 text-center">
           <embed src="./Images/Resume.pdf" width="800" height="2100"/>
         </div>
       </div>
