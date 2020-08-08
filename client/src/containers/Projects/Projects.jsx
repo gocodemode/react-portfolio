@@ -41,24 +41,25 @@ import Navbar from "../Navbar/Navbar";
                             <div className="card">
                                 <div className="card-body">
                                     <h5 className="card-title">Workout Tracker</h5>
-                                        <img src="./Images/workoutTracker.jpg" className="img-size" alt="workoutTracker"></img>
-                                        <br />
-                                        <a href="https://github.com/GTblue/workoutTracker">GitHub Repository</a>
-                                        <br />
-                                        <a href="https://standard-workout-tracker.herokuapp.com/">Deployed Website</a>
+                                    <br />
+                                    <img src="./Images/workoutTracker.jpg" className="img-size" alt="workoutTracker"></img>
+                                    <br />
+                                    <a href="https://github.com/GTblue/workoutTracker">GitHub Repository</a>
+                                    <br />
+                                    <a href="https://standard-workout-tracker.herokuapp.com/">Deployed Website</a>
                                 </div>
                             </div>
                         </div>
                         <div className="col-sm-6">
                             <div className="card">
                                 <div className="card-body">
-                                    <h5 className="card-title">Password Generator</h5>
+                                    <h5 className="card-title">Burger Application</h5>
                                     <br />
-                                    <img src="./Images/Password.png" className="img-size" alt="Password Generator"></img>
+                                    <img src="./Images/Burger.png" className="img-size" alt="Password Generator"></img>
                                     <br />
-                                    <a href="https://github.com/GTblue/Password-Generator">GitHub Repository</a>
+                                    <a href="https://github.com/GTblue/burger">GitHub Repository</a>
                                     <br />
-                                    <a href="https://gtblue.github.io/Password-Generator/">Deployed Website</a>
+                                    <a href="https://gregz-burgerz.herokuapp.com/">Deployed Website</a>
                                 </div>
                             </div>
                         </div>
