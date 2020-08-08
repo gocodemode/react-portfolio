@@ -5,10 +5,10 @@ class Navbar extends Component {
   render() {
     return (
       <div>
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <Link to="/" className="navbar-brand">Gregory Monroe II</Link>
+        <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a href="https://www.linkedin.com/in/gregthemusician/" className="navbar-brand top">Gregory Monroe II</a>
           <button
-            class="navbar-toggler"
+            className="navbar-toggler"
             type="button"
             data-toggle="collapse"
             data-target="#navbarNavAltMarkup"
@@ -16,13 +16,14 @@ class Navbar extends Component {
             aria-expanded="false"
             aria-label="Toggle navigation"
           >
-            <span class="navbar-toggler-icon"></span>
+            <span className="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav ml-auto">
                 <Link to="/" className="nav-item nav-link active">About Me</Link>
-                <Link to="/contact" className="nav-item nav-link">Contact</Link>
+                <Link to="/contact" className="nav-item nav-link active">Contact</Link>
                 <Link to="/projects" className="nav-item nav-link active">Projects</Link>
+                <Link to="/resume" className="nav-item nav-link active">Resume</Link>
             </div>
           </div>
         </nav>
