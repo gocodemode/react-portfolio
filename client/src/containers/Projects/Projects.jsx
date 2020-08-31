@@ -12,13 +12,13 @@ import Navbar from "../Navbar/Navbar";
                         <div className="col-sm-6">
                             <div className="card">
                                 <div className="card-body">
-                                    <h5 className="card-title">ReadMeTV</h5>
+                                    <h5 className="card-title">Warrior</h5>
                                     <br />
-                                    <img src="./Images/ReadMoreTV.png" className="img-size" alt="ReadMoreTV"/>
+                                    <img src="./Images/warriormain.png" className="img-size" alt="Password Generator"></img>
                                     <br />
-                                    <a href="https://github.com/jameygronewald/readMoreTV">GitHub Repository</a>
+                                    <a href="https://github.com/GTblue/warrior">GitHub Repository</a>
                                     <br />
-                                    <a href="https://jameygronewald.github.io/readMoreTV/index.html">Deployed Website</a>
+                                    <a href="https://kgbc-warrior.herokuapp.com/">Deployed Website</a>
                                 </div>
                             </div>
                         </div>
@@ -53,13 +53,13 @@ import Navbar from "../Navbar/Navbar";
                         <div className="col-sm-6">
                             <div className="card">
                                 <div className="card-body">
-                                    <h5 className="card-title">Burger Application</h5>
+                                    <h5 className="card-title">ReadMeTV</h5>
                                     <br />
-                                    <img src="./Images/Burger.png" className="img-size" alt="Password Generator"></img>
+                                    <img src="./Images/ReadMoreTV.png" className="img-size" alt="ReadMoreTV"/>
                                     <br />
-                                    <a href="https://github.com/GTblue/burger">GitHub Repository</a>
+                                    <a href="https://github.com/jameygronewald/readMoreTV">GitHub Repository</a>
                                     <br />
-                                    <a href="https://gregz-burgerz.herokuapp.com/">Deployed Website</a>
+                                    <a href="https://jameygronewald.github.io/readMoreTV/index.html">Deployed Website</a>
                                 </div>
                             </div>
                         </div>
