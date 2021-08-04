@@ -19,7 +19,7 @@ class AboutMe extends Component {
                     </div>
                     <div className="col-sm-5">
                         <p><strong>
-                            Gregory Monroe II a MERN Full-Stack Developer, who got his education from the Georgia Institute of Technology. Previous to that, Gregory attained his Bachelor’s degree in Music Performance from the University of Central Florida. He now has been playing the piano for 25 years. 
+                            Gregory Monroe II is a Full-Stack Developer, who got his education from the Georgia Institute of Technology. Previous to that, Gregory attained his Bachelor’s degree in Music Performance from the University of Central Florida. He now has been playing the piano for 25 years. 
                         </strong></p>
                     </div>
                 </div>
