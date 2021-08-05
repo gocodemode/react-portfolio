@@ -25,10 +25,10 @@ class AboutMe extends Component {
                         I joined GoDaddy as a Technical Support Representative in March 2021. In this position, I interview and listen to clients to identify their needs or concerns and provide effective solutions to address their problems. Additionally, I recommend new products and services that will help their business achieve higher levels of success.
                         <br/>
                         <br/>
-                        Prior to joining, GoDaddy I earned a Bachelor of Music in Music Performance at the University of Central Florida. Upon graduation, I was a self-employed musician in Central Florida. In the performance arts, I directed and played piano to accompany various theater productions, non-profit organizations and ecumenical services. My musical talents and skills have been great assets to help me transition and thrive in the technology field.  
+                        Prior to joining GoDaddy, I earned a Bachelor of Music in Music Performance at the University of Central Florida. Upon graduation, I was a self-employed musician in Central Florida. In the performance arts, I directed and played piano to accompany various theater productions, non-profit organizations and ecumenical services. My musical talents and skills have been great assets to help me transition and thrive in the technology field.  
                         <br/>
                         <br/>
-                        My current hobbies include new music (specify), writing (what kind) and cooking. Being a life-long learner, I am always seeking opportunities to gain experience in web development and enterprising technologies the Atlanta area. Also, I am comfortable with remote work.
+                        My current hobbies include new music from singer-songwriters, writing graphic novels and cooking. Being a life-long learner, I am always seeking opportunities to gain experience in web development and enterprising technologies the Atlanta area. Also, I am comfortable with remote work.
                         <br/>
                         <br/>
                         My Full-Stack Web Development course at Georgia Institute of Technology provided several real-world opportunities to work individually and collaboratively on applications and projects.
