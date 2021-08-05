@@ -24,7 +24,7 @@ class Contact extends Component {
                     <br/> 
                     <div className="row">
                         <div className="col-sm-12">
-                            <h4 className="top"><a href="https://github.com/GTblue">GitHub</a></h4>
+                            <h4 className="top"><a href="https://github.com/gocodemode">GitHub</a></h4>
                         </div>
                     </div>
                     <br />
