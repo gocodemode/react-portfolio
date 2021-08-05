@@ -1,13 +1,28 @@
-.back {
-    background-image: none;
-    background-color: #333;
-    padding: 15px;
-    color: #fff;
-    text-align: center
+.image {
+    background-image: url(Image/Paisley.jpg);
+    height: 100%;
+    text-align: center;
 }
 
 .top {
     text-align: center;
     font-family: 'Lobster', cursive;
+    color: #fff;
 }
 
+h4 {
+    text-align: center;
+    color: #fff;
+}
+
+a {
+    color: #ffae42;
+}
+
+a:hover {
+    color: yellow;
+}
+
+.row {
+    text-align: center;
+}
