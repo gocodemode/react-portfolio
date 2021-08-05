@@ -25,7 +25,7 @@ class AboutMe extends Component {
                         In March of 2021, I joined GoDaddy as a Technical Support Representative. This comprises of fielding inbound calls and providing consultation to customers regarding new products and services that will help their business succeed. Daily, I get to troubleshoot GoDaddy’s products as needed in order to deliver stellar customer service.
                         <br/>
                         <br/>
-                        Prior to joining the company, I was a self-employed musician back home in Central Florida. As a performer, I directed and played for theater productions, non-profit organizations, and church services. Being able to apply those analytical, logical, and methodical skills to this industry has been beneficial. In turn, I am able to produce results based on my work ethic.  
+                        Prior to joining the company, I was a self-employed musician back home in Central Florida. Being able to apply those analytical, logical, and methodical skills to this industry has been beneficial. In turn, I am able to produce results based on my work ethic.  
                         <br/>
                         <br/>
                         After moving to Atlanta, I earned a certificate in Full-Stack Web Development from the Georgia Institute of Technology. With this, I entered the technical field to explore my passion for coding, composition, and creativity.
