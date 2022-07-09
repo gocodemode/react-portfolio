@@ -1,0 +1,13 @@
+.cardbody {
+    size: auto;
+}
+
+.card {
+    max-width: 100%;
+    height: auto;
+    width: auto\9;
+};
+
+.cardbody img {
+    size: auto;
+};
